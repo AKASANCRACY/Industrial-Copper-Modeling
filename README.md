@@ -8,7 +8,7 @@ Lead capture is another issue. A lead classification model is proposed, using "W
 ## Table of Contents
 - [Background](#background)
 - [Installation](#installation)
-- [Project Approach](#projet-approach)
+- [Project Approach](#project-approach)
 - [Model building and Evaluation](#model-building-and-Evaluation)
 - [Building a Model](#building-a-model)
 - [Conclusion](#conclusion)
@@ -48,6 +48,7 @@ To run this project, the following libraries are needed:
 Make sure these libraries are installed in your Python environment before running the project.
 
 pip install librarynames
+
 ## Project Aproach
 #### Data Understanding
 Identify variable types: Continuous (numeric) and Categorical (categories).
@@ -66,6 +67,7 @@ Visualize skewness with distplots or histograms.
 Create new features by aggregating existing ones.
 Transform variables for more informative representations.
 Drop highly correlated columns using a heatmap.
+
 ## Model Building and Evaluation
 #### 1. Model Selection: 
 Choose suitable algorithms for regression and classification tasks.
