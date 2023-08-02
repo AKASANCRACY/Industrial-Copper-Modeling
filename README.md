@@ -90,7 +90,7 @@ Use metrics like MAE, RMSE, F1-score, and accuracy to assess performance.
 #### 7. Cross-Validation: 
 Ensure robustness with cross-validation to prevent overfitting.
 ## Building a Model 
-
+[Click here](https://streamlit.io/)
 #### 1. Install Streamlit using pip:
 
 pip install streamlit
