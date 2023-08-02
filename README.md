@@ -8,9 +8,9 @@ Lead capture is another issue. A lead classification model is proposed, using "W
 ## Table of Contents
 - [Background](#background)
 - [Installation](#installation)
-- [Project Approach](#project-approach)
-- [Model building and Evaluation](#model-building-and-Evaluation)
-- [Building a Model](#building-a-model)
+- [Project Approach](#project approach)
+- [Model building and Evaluation](#model building and Evaluation)
+- [Building a Model](#building a model)
 - [Conclusion](#conclusion)
 - [License](#license)
 ## Background
