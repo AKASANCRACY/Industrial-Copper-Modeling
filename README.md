@@ -11,7 +11,7 @@ Lead capture is another issue. A lead classification model is proposed, using "W
 - [Project Approach](#projet-approach)
 - [Model building and Evaluation](#model-building-and-Evaluation)
 - [Building a Model](#building-a-model)
-- [Contributing](#contributing)
+- [Conclusion](#conclusion)
 - [License](#license)
 ## Background
 The copper industry grapples with sales and pricing data challenges stemming from skewness and noise. Manual predictions are prone to errors and time-consuming. This project employs advanced machine learning techniques to enhance pricing accuracy and lead conversion.
@@ -117,3 +117,5 @@ streamlit run app.py
 ## Conclusion
 In conclusion, the Industrial Copper Modeling Project utilized regression for accurate pricing predictions and classification for efficient lead evaluation. Our data preprocessing, interactive GUIs, and transparent practices collectively enhance decision-making in the copper industry, showcasing the potential of data-driven solutions in driving progress.
 
+## License
+This project is licensed under the MIT License.
