@@ -121,3 +121,6 @@ In conclusion, the Industrial Copper Modeling Project utilized regression for ac
 
 ## License
 This project is licensed under the MIT License.
+
+## Reference Video Link
+https://www.linkedin.com/posts/prakash-subramanian-b5467b65_my-4th-capstone-project-under-machine-learning-activity-7101772066248421376-GOnu?utm_source=share&utm_medium=member_desktop
